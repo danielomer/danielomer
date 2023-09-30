@@ -1,4 +1,4 @@
-![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
 <h3 align="center">Web Developer</h3>
 
 <h4>I use:</h4>
