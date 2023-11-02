@@ -2,6 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 <h4>I use:</h4>
+<div>
   <img
     src="./arch.svg"
     alt="linux"
@@ -14,6 +15,7 @@
     width="40"
     height="40"
   />
+</div>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
