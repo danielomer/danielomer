@@ -2,9 +2,9 @@
 <h3 align="center">Web Developer</h3>
 
 <h4>I use:</h4>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjH3LnN8KWCAxXRQ_EDHWmTCcgQFnoECBAQAQ&url=https%3A%2F%2Farchlinux.org%2F&usg=AOvVaw3X9YYIhQ9BYf5SUFHaBZ4z&opi=89978449" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F386451%2Farch_linux_archlinux_icon&psig=AOvVaw3iLFfKFgKUbWhChmepIGGZ&ust=1699033757195000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC0z47wpYIDFQAAAAAdAAAAABAE"
     alt="linux"
     width="40"
     height="40"
