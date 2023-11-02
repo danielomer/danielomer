@@ -8,14 +8,12 @@
     width="40"
     height="40"
   />
-<a href="https://www.firefox" target="_blank" rel="noreferrer">
   <img
     src="https://static-00.iconduck.com/assets.00/firefox-icon-1981x2048-4izjijq3.png"
     alt="firefox"
     width="40"
     height="40"
   />
-</a>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
@@ -141,7 +139,7 @@
   <a href="https://t.me/Daniel_Omer" target="blank"
     ><img
       align="center"
-      src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-png-transparent.png"
+      src="./telegram.webp"
       alt="daniel omer"
       height="30"
       width="40"
